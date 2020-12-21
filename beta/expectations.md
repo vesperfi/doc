@@ -8,8 +8,8 @@ Participate cautiously, provide feedback and set expectations appropriately.  Pr
 * This is a real money beta test of the first 3 Vesper holding pools.
 * The beta test will run “until its ready”   Rough estimate is 2-4 weeks.
 ## Deployment
-* These pools will likely be the production holding pools.  Assets deposited during beta do not need to be touched or moved (unless a bug forcing redeployment occurs), and will become assets in the production pools upon V2 production launch.
 * It is possible, but unlikely, that the pools, strategies and controllers may need to be redeployed.
+* These pools will likely be the production holding pools.  Assets deposited during beta do not need to be touched or moved (unless a bug forcing redeployment occurs), and will become assets in the production pools upon V2 production launch.
 ## Governance
 * VSP token and governance system is not yet deployed.
 * Governance is currently via multisig + controller contract.
