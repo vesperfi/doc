@@ -19,4 +19,4 @@ Participate cautiously, provide feedback and set expectations appropriately.  Pr
 * Fees are temporarily collected in the multisig account.  Later, this will be run through the revenue system.
 * Beta rewards are described [in this document](https://medium.com/vesperfinance/vesper-incentivized-beta-launch-dec-22-a844976b41f6).
 ## Feedback
-* Preferred venue is the #feedback channel on Vesper discord.
+* Preferred venue is the #beta-feedback channel on Vesper discord.
