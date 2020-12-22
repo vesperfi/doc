@@ -20,3 +20,8 @@ Participate cautiously, provide feedback and set expectations appropriately.  Pr
 * Beta rewards are described [in this document](https://medium.com/vesperfinance/vesper-incentivized-beta-launch-dec-22-a844976b41f6).
 ## Feedback
 * Preferred venue is the #beta-feedback channel on Vesper discord.
+## Contracts
+* vETH: 0x103cc17C2B1586e5Cd9BaD308690bCd0BBe54D5e
+* vWBTC: 0x4B2e76EbBc9f2923d83F5FBDe695D8733db1a17B
+* vUSDC: 0x0C49066C0808Ee8c673553B7cbd99BCC9ABf113d
+
