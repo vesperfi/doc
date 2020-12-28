@@ -25,3 +25,4 @@ Participate cautiously, provide feedback and set expectations appropriately.  Pr
 * vWBTC: 0x4B2e76EbBc9f2923d83F5FBDe695D8733db1a17B
 * vUSDC: 0x0C49066C0808Ee8c673553B7cbd99BCC9ABf113d
 
+**To deposit, use the deposit() functions.  Do not send funds directly to these contract addresses.**
