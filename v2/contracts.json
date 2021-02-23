@@ -5,7 +5,7 @@
       "collateralManager": "0x8d0b8e2b5584cE1487317f81Da7d97397eF3e899",
       "controller": "0xa4F1671d3Aee73C05b552d57f2d16d3cfcBd0217",
       "vsp": "0x1b40183EFB4Dd766f11bDa7A7c3AD8982e998421",
-      "revenueSplitter": "0x097ee00F42f9D7512929A6434185Ae94aC6dafD7",
+      "revenueSplitter": "0x223809E09ec28C28219769C3FF05c790c213152C",
       "vBetaETH": {
         "pool": "0x2C361913e2dA663e1898162Ec01497C46eb87AbF",
         "strategy": {
