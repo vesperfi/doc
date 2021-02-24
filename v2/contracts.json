@@ -1,5 +1,5 @@
 {
-  "version": "2.0.0",
+  "version": "2.0.1",
   "networks": {
     "mainnet": {
       "collateralManager": "0x8d0b8e2b5584cE1487317f81Da7d97397eF3e899",
@@ -58,7 +58,7 @@
       "VVSP": {
         "pool": "0xbA4cFE5741b357FA371b506e5db0774aBFeCf8Fc",
         "strategy": {
-          "vspStrategy": "0xfd61f9C0796D917466E3aB5f2A40984Fc15794B6"
+          "vspStrategy": "0xd5579A994194C142846aBafA5919Fbad0aE32AA2"
         }
       }
     }
