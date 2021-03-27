@@ -18,6 +18,8 @@ seeks to get community approval to fund an operational multi-sig, which
 can spend as needed on behalf of Vesper, for the betterment of the
 Vesper network and protocol.
 
+This follows the principle of limited powers:  Ask the Vesper community to approve a small, satellite multi-sig, rather than having an OpComm control a much larger amount, with much wider powers.
+
 ## Expectations
 
 Following proposal acceptance, a multi-sig wallet will be created.
