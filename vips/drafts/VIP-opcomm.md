@@ -43,6 +43,8 @@ heavily weighted in the initial OpComm.  Over time, a concerted effort
 will be made to onboard non-VBC OpComm members, mirroring the path to
 decentralization overall.
 
+Finally, following the principle of Separation of Powers, this multi-sig explicitly *does not* have any control over pool strategies, or other aspects of the Vesper pool smart contracts.
+
 ## Specification
 
 * Create 2-of-N multi-sig (any 2 OpComm members).
