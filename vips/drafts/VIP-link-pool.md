@@ -15,6 +15,8 @@ auditors.  Finally, promote the LINK pool from beta to production.
 
 Research the LINK token to ensure it is compatible with the Vesper system, and compiles with relevant standards (e.g. ERC20).  [This document from Balancer Labs](https://docs.balancer.finance/core-concepts/bal-liquidity-mining/exchange-and-reward-listing) is used as the basis for technical qualification of a token.
 
+Research the likely revenue and other positive impacts that Vesper will receive by adding a LINK pool.
+
 The LINK Grow pool behavior will mimic existing Vesper Grow pools:
 "Deposit-X, Earn-X", compounding the LINK token without risk of
 impermanent loss or other common balance-goes-down scenarios.
