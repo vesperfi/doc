@@ -1,7 +1,5 @@
 # Vesper Finance - Products and Pools FAQ
 
-*A Vesper Community FAQ Powered by COIN$TAR*
-
 **Q. Where can I buy VSP?**
 
 Uniswap, Sushiswap, and Loopring currently. You can also use DEX aggregators like 1inchexchange or matchaXYZ.
