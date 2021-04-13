@@ -1,4 +1,4 @@
-# VIP-3: Boost vLINK Pool with VSP
+# Boost vLINK Pool with VSP
 
 ## Summary
 Apply a VSP boost to the vLINK pool so LINK depositors earn VSP on top of the underlying LINK yield.
