@@ -1,6 +1,8 @@
 
 # VIP-draft: Add LINK pool
 
+Status: Draft
+
 ## Summary
 
 Whitelist the LINK token, and promote the LINK pool to tier-1 production.

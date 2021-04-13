@@ -8,7 +8,7 @@ and not-yet-accepted / works-in-progress drafts.
 
 ## Accepted Proposals
 
-(none yet)
+[VIP-1](VIP-1.md) - Create and fund OpComm multi-sig
 
 ## Draft Proposals
 

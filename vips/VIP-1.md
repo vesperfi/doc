@@ -1,5 +1,7 @@
 
-# VIP-draft: Create and fund OpComm multi-sig
+# VIP-1: Create and fund OpComm multi-sig
+
+Status: Accepted
 
 ## Summary
 
