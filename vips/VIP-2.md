@@ -1,7 +1,7 @@
 
-# VIP-draft: Add LINK pool
+# VIP-2: Add LINK pool
 
-Status: Draft
+Status: Accepted
 
 ## Summary
 
