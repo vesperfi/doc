@@ -24,9 +24,5 @@ The fund will incorporate volatile digital assets (VSP, WBTC, ETH) and stablecoi
 ## Specification
 
 * $100,000 worth of VSP paid to Blockforce Capital through the OpComms fund.
-* That VSP used for legal, administrative, regulatory fees + marketing, onboarding, and overhead.
-* 25% of all management fees through the fund (2% per year on AUM and 20% of performance) used to buyback VSP and deliver to vVSP pool.
-
-## Additional Information
-
-Full proposal found here: https://blockforcecapital.com/proposal/Blockforce-Vesper-Proposal.pdf
+* [Full proposal here](https://blockforcecapital.com/proposal/Blockforce-Vesper-Proposal.pdf)
+* * Hash: [fb9e733851f8d8f8f3f7ed058f5690f6b6332e12232ca586481423cd192d6920](https://live.blockcypher.com/btc/tx/f1dc8729ed60c855cee03a9df2f696db9b522e77e3f86c8798180f11350098f7/)
