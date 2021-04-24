@@ -19,7 +19,7 @@ The $100,000 grant enables Blockforce Capital to take on the miscellaneous legal
 
 The fund will incorporate volatile digital assets (VSP, WBTC, ETH) and stablecoins (USDC, DAI) alike, which will be deposited to Vesper to earn yield.
 
-25% of Blockford management fees will be shared with the Vesper community through open market buyback of VSP and delivery to the vVSP pool.
+25% of Blockforce management fees will be shared with the Vesper community through open market buyback of VSP and delivery to the vVSP pool.
 
 ## Specification
 
