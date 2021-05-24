@@ -1,4 +1,4 @@
-# VIP-3: Engage Gauntlet for On-Chain Risk Management
+# VIP: Engage Gauntlet for On-Chain Risk Management
 
 Status: Draft 
 
