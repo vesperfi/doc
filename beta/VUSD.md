@@ -50,3 +50,16 @@ Redemption fee is 0.3% during this phase.
 6. Click the **Write** button to submit an Ethereum transaction redeeming VUSD.
 
 When the transaction confirms, VUSD will have been debited from your wallet, and DAI, USDC or USDT will have been sent to your wallet.
+
+## What are VUSD LP opportunities right now?
+
+* Uniswap V3:  VUSD/ETH and VUSC/USDC
+* SushiSwap:   VUSD/ETH
+
+## How can I help?
+
+* **Use VUSD**  Use VUSD as a stablecoin in payments and contracts.
+* **Trade VUSD**  Arbitrage is crucial to VUSD's proper functioning.   Trade VUSD pairs and attempt to make a profit.   Mint VUSD and arbitrage, or redeem VUSD and arbitrage.
+* **Supply VUSD**   Supply VUSD to liquidity pairs, and earn fees.
+* **List VUSD**   Apply for data sites to list VUSD.
+
