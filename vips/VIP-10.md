@@ -4,11 +4,11 @@ Status: Pending
 
 ## Summary
 
-Adopted from VIP-9, this proposal outlines just the emissions upgrades as part of the broader "Treasury V2" overhaul.
+Adopted from [VIP-9](https://github.com/vesperfi/doc/blob/main/vips/VIP-9.md), this proposal outlines just the emissions upgrades as part of the broader "Treasury V2" overhaul.
 
 ## Abstract
 
-VIP-1O is intended to correct the VSP over-subsidization of pools and create a global emissions budget that can scale as new pools arrive. It also incorporates a future-proof mechanism for LP rewards once the current schedule expires and as VSP is ported to other networks.
+VIP-10 is intended to correct the VSP over-subsidization of pools and create a global emissions budget that can scale as new pools arrive. It also incorporates a future-proof mechanism for LP rewards once the current schedule expires and as VSP is ported to other networks.
 
 
 ## Expectations
