@@ -23,7 +23,8 @@ VIP-10 is intended to correct the VSP over-subsidization of pools and create a g
 * Month 11: 40,000 VSP
 * Month 12: 35,000 VSP
 * Month 13+: 30,000 VSP
- Point allocation will rebalance each month based on TVL, with greater TVL awarding higher weight.
+ 
+Point allocation will rebalance each month based on TVL, with greater TVL awarding higher weight.
 * #1 highest TVL pool: 5 points
 * 2-3: 4 points
 * 4-5: 3 points
