@@ -1,0 +1,18 @@
+VIP: Fund a bounty program for governance decentralizing VIP's
+Summary
+Allocate a portion of VSP tokens from Vesper's reserve pool to fund a bounty program incentivizing governance decentralizing VIP's.
+
+Abstract
+Vesper is currently governed by a multi-sig of predominantly founding members.  The goal of Vesper is to transition governance control completely into the hands of the community.
+
+This VIP introduces a monetary incentive for the decentralizing of Vesper's governance, by directing a small portion of the reserve pool to fund a bounty program for governance decentralizing VIP's.
+
+Expectations
+This proposal greenlights the allocation of 15,000 VSP from the reserve pool to be used to fund a bounty program incentivizing governance decentralizing VIP's.
+
+Vesper's multi-sig will be in control of the 15,000 VSP and will have the responsibility to award the funds of the bounty program - following community input.
+
+This VIP is the initial effort to monetarily incentivize the decentralization of Vesper's governance and it is the intention to likely increase the funding to this bounty program to a higher number in the future.
+
+Specification
+At present Vesper is governed by a multi-sig controlled predominantly by the founders.  After this VIP is accepted by the community, the effort to decentralize Vesper's governance will be monetarily incentivized with a 15,000 VSP bounty program - controlled by the multi-sig, hastening Vesper's transition from multi-sig governance to a DAO. 
