@@ -23,22 +23,26 @@ VIP-10 is intended to correct the VSP over-subsidization of pools and create a g
 * Month 11: 40,000 VSP
 * Month 12: 35,000 VSP
 * Month 13+: 30,000 VSP
- Point allocation will rebalance each month based on TVL, with greater TVL awarding higher weight.
+ 
+Point allocation will rebalance each month based on TVL, with greater TVL awarding higher weight.
 * #1 highest TVL pool: 5 points
 * 2-3: 4 points
 * 4-5: 3 points
 * 6-8: 2 points
 * 9+: 1 point
+
 New pools will automatically be allocated 3 points for the first month after launch and 2 points for the second month, and are absorbed into the above methodology starting their third month.
 
 LP rewards will have separate emissions, reflective of the existing schedule. (Uniswap LP program is prefunded through Month 12 and will be integrated on Month 13, hence the emissions increase).
 * Month 7-12: 34,500 VSP
 * Month 13+: 45,000 VSP
+
 Point allocation (based on trading volume)
 * SushiSwap: 5 points
 * #1 highest volume (excluding SushiSwap on ETH Layer 1): 3 points
 * 2-3: 2 points
 * 4+: 1 point
+
 New markets start with 2 point allocation in their two months, and are absorbed into the above methodology starting their third month.
 
 ## Specification
