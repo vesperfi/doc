@@ -41,7 +41,7 @@ Up-to 5,000 VSP budgeted per month to boost top pools on non-Ethereum chains.
 
 #### New Pools and Partners
 Up-to 10,000 VSP budgeted per month to boost new pools and partners.
-Communities looking to co-boost Vesper pools can receive additional emissions through VSP replenish and partnership earmarks outlined in the new treasury split 2.
+Communities looking to co-boost Vesper pools can receive additional emissions through VSP replenish and partnership earmarks outlined in the new treasury split.
 
 #### Specifications
 - VIP-10 Overridden
