@@ -1,7 +1,7 @@
 # Whitelist Polygon, Fantom, Avalanche, Arbitrum chains and MATIC, FTM, AVAX
 
 VIP-13
-Status: Pending
+Status: Passed
 
 ## Summary
 
